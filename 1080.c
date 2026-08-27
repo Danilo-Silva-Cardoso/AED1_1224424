@@ -1,11 +1,15 @@
 #include <stdio.h>
 
 int main() {
-    int valor, maior = 0, posicao = 0;
+    
+    int valor, maior, posicao=1;
+    
+    scanf("%d", &valor);
+    maior = valor;
 
-    for (int i = 1; i <= 100; i++) {
+    for (int i = 2; i <= 100; i++) {
         scanf("%d", &valor);
-
+        
         if (valor > maior) {
             maior = valor;
             posicao = i;
