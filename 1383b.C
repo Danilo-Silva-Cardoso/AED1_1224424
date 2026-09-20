@@ -1,3 +1,14 @@
+/* --------------------------------------------------------------------------
+Disciplina  : Algortimo e Estrutura de Dados 2026S1
+Nome        : Danilo Da Silva Cardoso
+Linguagem   : C
+Problema    : https://judge.beecrowd.com/pt/problems/view/1383
+Data        : 01/09/2026
+Objetivo    : Jogo do sudoku usando locação dinamica
+Dificuldade : A estrutura dos ponteiros
+Uso de IA   : Perguntei onde estava errando e fui pedindo atraves de perguntas sem ela me dar a resposta como me ajudar
+-------------------------------------------------------------------------- */
+
 #include <stdio.h>
 #include <stdlib.h>
 
