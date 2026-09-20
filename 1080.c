@@ -4,7 +4,7 @@ Nome        : Danilo Da Silva Cardoso
 Linguagem   : C
 Problema    : https://judge.beecrowd.com/pt/problems/view/1080
 Data        : 27/08/2026
-Objetivo    : Checagem de parenteses
+Objetivo    : Maior e Posição
 Dificuldade : sintaxe do c
 Uso de IA   : No maximo onde estava meus erros
 -------------------------------------------------------------------------- */
