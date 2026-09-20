@@ -1,3 +1,14 @@
+/* --------------------------------------------------------------------------
+Disciplina  : Algortimo e Estrutura de Dados 2026S1
+Nome        : Danilo Da Silva Cardoso
+Linguagem   : C
+Problema    : https://judge.beecrowd.com/pt/problems/view/1383
+Data        : 24/08/2026
+Objetivo    : Jogo do sudoku
+Dificuldade : Fazer a estrutura da matriz 3x3 do bloquinho do sudoku
+Uso de IA   : Perguntei onde estava errando e fui pedindo atraves de perguntas sem ela me dar a resposta como me ajudar
+-------------------------------------------------------------------------- */
+
 
 int sudoku(int i , int j, int matriz[9][9]){
 
