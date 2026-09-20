@@ -1,3 +1,14 @@
+/* --------------------------------------------------------------------------
+Disciplina  : Algortimo e Estrutura de Dados 2026S1
+Nome        : <<<Seu Nome>>>
+Linguagem   : C
+Problema    : https://judge.beecrowd.com/pt/problems/view/<<numeroDoProblema>>
+Data        : 18/09/2026
+Objetivo    : Ler dois valores inteiros e mostrar a soma.
+Dificuldade : Fazer a estrutura da pilha
+Uso de IA   : Perguntei onde estava errando e fui pedindo atraves de perguntas sem ela me dar a resposta como me ajudar
+-------------------------------------------------------------------------- */
+
 #include <stdio.h>
 #include <stdlib.h>
 
