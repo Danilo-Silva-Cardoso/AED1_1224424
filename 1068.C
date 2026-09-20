@@ -1,10 +1,10 @@
 /* --------------------------------------------------------------------------
 Disciplina  : Algortimo e Estrutura de Dados 2026S1
-Nome        : <<<Seu Nome>>>
+Nome        : Danilo Da Silva Cardoso
 Linguagem   : C
-Problema    : https://judge.beecrowd.com/pt/problems/view/<<numeroDoProblema>>
+Problema    : https://judge.beecrowd.com/pt/problems/view/1068
 Data        : 18/09/2026
-Objetivo    : Ler dois valores inteiros e mostrar a soma.
+Objetivo    : Checagem de parenteses
 Dificuldade : Fazer a estrutura da pilha
 Uso de IA   : Perguntei onde estava errando e fui pedindo atraves de perguntas sem ela me dar a resposta como me ajudar
 -------------------------------------------------------------------------- */
