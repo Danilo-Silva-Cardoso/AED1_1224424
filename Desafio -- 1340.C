@@ -11,7 +11,7 @@ Uso de IA   : Perguntei onde estava errando e fui pedindo atraves de perguntas s
 
 #include <stdio.h>
 
-int main(void) {
+int main() {
     int n;
     while (scanf("%d", &n) != EOF) {
         int pilha[1000];
