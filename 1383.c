@@ -9,6 +9,8 @@ Dificuldade : Fazer a estrutura da matriz 3x3 do bloquinho do sudoku
 Uso de IA   : Perguntei onde estava errando e fui pedindo atraves de perguntas sem ela me dar a resposta como me ajudar
 -------------------------------------------------------------------------- */
 
+#include <stdio.h>
+#include <stdlib.h>
 
 int sudoku(int i , int j, int matriz[9][9]){
 
@@ -61,8 +63,6 @@ int sudoku(int i , int j, int matriz[9][9]){
 
     return 0;
 }
-
-#include <stdio.h>
 
 int main()
 {
