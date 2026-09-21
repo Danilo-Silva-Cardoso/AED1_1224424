@@ -10,6 +10,7 @@ Uso de IA   : No maximo onde estava meus erros
 -------------------------------------------------------------------------- */
 
 #include <stdio.h>
+#include <stdlib.h>
 
 int main() {
     
