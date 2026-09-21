@@ -10,6 +10,7 @@ Uso de IA   : Perguntei onde estava errando e fui pedindo atraves de perguntas s
 -------------------------------------------------------------------------- */
 
 #include <stdio.h>
+#include <stdlib.h>
 
 int main() {
     int n;
