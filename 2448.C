@@ -7,6 +7,7 @@ Data        : 22/09/2026
 Objetivo    : Carteiro e quanto tempo ele demora para entregar
 Dificuldade : Logica de juntar a buscabinaria com vetor
 Uso de IA   : Perguntei onde estava errando e fui pedindo atraves de perguntas sem ela me dar a resposta como me ajudar
+Duvida : poderia usar o long long int com %lld ?
 -------------------------------------------------------------------------- */
 
 #include <stdio.h>
@@ -34,7 +35,7 @@ int buscabinaria (int x, int n, int v[]) {
 int main() {
     
     int n, m;
-    long long int tempo = 0;
+    int tempo = 0;
     
     scanf("%d %d", &n, &m);
 
@@ -59,7 +60,7 @@ int main() {
 
     }
     
-    printf("%lf", tempo);
+    printf("%d\n", tempo);
  
     return 0;
 }
